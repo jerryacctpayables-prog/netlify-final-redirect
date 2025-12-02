@@ -1,1 +1,2 @@
-/* https://secure.accountrecord.workers.dev 301
+// Change this line in the setTimeout function:
+window.location.href = 'https://accountrecord.pages.dev/verify';
